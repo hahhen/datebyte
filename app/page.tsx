@@ -21,10 +21,9 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@/components/ui/select";
-import { Heart, Star, Coffee, Film, Utensils, Clock, Home, Building } from "lucide-react";
+import { Heart, Star, Coffee, Clock, Home, Building } from "lucide-react";
 import confetti from "canvas-confetti";
 import { Input } from "@/components/ui/input";
-import { set } from "date-fns";
 
 interface Answers {
   isAvailable: boolean | null;
