@@ -28,8 +28,7 @@ export async function POST(request: Request) {
         <h1>She responded!</h1>
         <p>Date: ${new Date(data.date).toLocaleDateString()}</p>
         <p>Time: ${data.time}</p>
-        <p>Food: ${data.food.join(', ')}</p>
-        <p>Movie: ${data.movie}</p>
+        <p>Place: ${data.food.join(', ')}</p>
         <p>Excitement: ${data.excitement}/100</p>
       `,
       attachments: [{
