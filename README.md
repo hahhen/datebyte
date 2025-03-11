@@ -1,3 +1,7 @@
+# Warning
+
+This is *not* my code. The original owner made it private and then public again, so it shows up as being mine since I was the first one who forked it. The original unmodified version is available at https://github.com/0xneobyte/datebyte.
+
 # DateByte - A Techie Way to Ask Her Out 💻💘
 
 <div align="left">
